@@ -6,7 +6,7 @@ int main()
 	{
 		for (int j = 1; j < 10; j++)
 		{
-			std::cout << i << "x" << j << "=" << i*j << std::endl;
+			std::cout << i << "x" << j << " = " << i*j << std::endl;
 		}
 		std::cout << std::endl;
 	}
